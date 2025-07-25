@@ -1,2 +1,2 @@
-# SCT_WD_TaskNumber_02
+SIMPLE CALCULATOR
 Basic calculator
